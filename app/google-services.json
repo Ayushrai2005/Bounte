@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "871307153286",
+    "firebase_url": "https://lost-and-found-e982a-default-rtdb.firebaseio.com",
+    "project_id": "lost-and-found-e982a",
+    "storage_bucket": "lost-and-found-e982a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871307153286:android:2119b115be531fc5296607",
+        "android_client_info": {
+          "package_name": "com.ayush.bounte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_77cYPUyu9KXuQsb9nlEJkb56QXE1LMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
